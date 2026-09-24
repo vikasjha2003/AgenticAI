@@ -12,3 +12,5 @@ langchain-huggingface
 langchain-text-splitters
 tiktoken
 streamlit
+langchain-tavily
+tavily
